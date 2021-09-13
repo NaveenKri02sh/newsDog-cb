@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newsDog-cb/static/css/main.a617e044.chunk.css",
+    "main.js": "/newsDog-cb/static/js/main.05491b3c.chunk.js",
+    "main.js.map": "/newsDog-cb/static/js/main.05491b3c.chunk.js.map",
+    "runtime-main.js": "/newsDog-cb/static/js/runtime-main.d2b22a8e.js",
+    "runtime-main.js.map": "/newsDog-cb/static/js/runtime-main.d2b22a8e.js.map",
+    "static/js/2.cb49b8c8.chunk.js": "/newsDog-cb/static/js/2.cb49b8c8.chunk.js",
+    "static/js/2.cb49b8c8.chunk.js.map": "/newsDog-cb/static/js/2.cb49b8c8.chunk.js.map",
+    "static/js/3.a051a88b.chunk.js": "/newsDog-cb/static/js/3.a051a88b.chunk.js",
+    "static/js/3.a051a88b.chunk.js.map": "/newsDog-cb/static/js/3.a051a88b.chunk.js.map",
+    "index.html": "/newsDog-cb/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/newsDog-cb/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.cb49b8c8.chunk.js.LICENSE.txt": "/newsDog-cb/static/js/2.cb49b8c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2b22a8e.js",
+    "static/js/2.cb49b8c8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.05491b3c.chunk.js"
+  ]
+}
