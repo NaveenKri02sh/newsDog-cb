@@ -42,8 +42,7 @@ export class News extends Component {
             loading : false
         })
     }
-    fetchMoreData = async () => {
-        
+    fetchMoreData = async () => {    
         const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page+1}&pageSize=${this.props.pageSize}`;
         this.setState({
             page : this.state.page + 1,
